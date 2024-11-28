@@ -9,6 +9,10 @@
     },
     "authors": [
         {
+            "name": "Nabeel Javaid",
+            "email": "nabeeljavaid.nmj@gmail.com"
+        },
+        {
             "name": "Adam Engebretson",
             "email": "adam@laravelcollective.com"
         },
